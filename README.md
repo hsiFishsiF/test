@@ -120,7 +120,7 @@ These pie charts show the proportion of games won when a team secures an early g
 These pie charts show the proportion of games won when a team secures an early game objective.
 
 
-<iframe src="interactive_plot.html" width="800" height="600"></iframe>
+<iframe src="test.html" width="800" height="600"></iframe>
 
 From these histograms, we can see that winning teams have a higher, more likely positive, gold difference than losing teams.
 
